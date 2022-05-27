@@ -1,4 +1,8 @@
-this is an Mrs. Oh tidying up!
+**Mrs. Oh tidying up!**
+* Tool
+* Book
+* Making
+**********
 
 ![Alt text](/path/to/img.jpg)
 ![Alt text](
