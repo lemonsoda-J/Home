@@ -11,6 +11,20 @@
  >[Daily Tool](https://docs.google.com/presentation/d/1cv2zu3JfTxZExEA4bbTi2uoMSfnfcTWuXETfANrpRDM/edit#slide=id.p)
 
  >[E-mail]<2thisness@gmail.com)
+ >
+ >[GOOGle](https://google.com)
+ >
+ >[NAVER](https://naver.com)
+ >
+ >[Daum](https://daum.net)
+ 
+ **뚜    |  벅   |  뚜    |    벅**
+ --------|-------|--------|-
+ 독서    |만보걷기|코딩|그림
+ 
 - [ ] 독서
 - [ ] 만보 걷기
 - [ ] 코딩
+- [ ] 그림
+
+
