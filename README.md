@@ -1,4 +1,5 @@
-<span style="color:yellow">노란 글씨입니다.</span>
+<span style="color:yellow">red</span>
+
 # **Mrs. Oh tidying up!**
 *********
 > Tool
@@ -10,3 +11,6 @@
  >[Daily Tool](https://docs.google.com/presentation/d/1cv2zu3JfTxZExEA4bbTi2uoMSfnfcTWuXETfANrpRDM/edit#slide=id.p)
 
  >[E-mail]<2thisness@gmail.com)
+- [ ] 독서
+- [ ] 만보 걷기
+- [ ] 코딩
